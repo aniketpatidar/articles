@@ -1,6 +1,6 @@
 ---
 title: "The Best Way to Learn Programming"
-seoTitle: "Learn Code"
+seoTitle: "Best way to learn code."
 seoDescription: "#programming #coding #programmer #python #developer #javascript #technology #code #java #ruby"
 datePublished: Sun Jun 30 2024 21:32:36 GMT+0000 (Coordinated Universal Time)
 cuid: cly22hkgm00000amhhrzqfva1
