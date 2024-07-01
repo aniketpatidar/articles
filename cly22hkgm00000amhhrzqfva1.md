@@ -25,7 +25,7 @@ Blog posts?
 
 Books?
 
-Or is it just simply coding 24x 7?
+Or is it just simply coding 24x7?
 
 Well, the best way to learn programming is, teaching and building Projects. I said it right.
 
@@ -41,7 +41,7 @@ Even studies have been done to prove this method works. Sounds a little crazy, b
 
 You might be wondering why he scores better than you, though both of you are putting a lot of effort into learning?
 
-The reason for his success is because he has understood the topic to a level, where he could teach it to others.That’s the level of understanding you need.
+The reason for his success is because he has understood the topic to a level, where he could teach it to others. That’s the level of understanding you need.
 
 How can I learn to get to that level in programming?
 
