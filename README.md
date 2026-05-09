@@ -1,1 +1,1 @@
-[hashnode](https://aniketpatidar.hashnode.dev/)
+https://blog.aniketpatidar.com/
